@@ -1,7 +1,5 @@
-# mandelbrot-clj
+# Mandelbrot Set
 
-The Mandelbrot set programmed in Clojure
+The famous mandelbrot set visualized.
 
-![Mandelbrot set](doc/mandelbrot.png)
-
-See also [Mandelbrot set in golang](https://github.com/eliashauksson/go-Mandelbrot).
+![image of the mandelbrot set](clojure/doc/mandelbrot.png)
